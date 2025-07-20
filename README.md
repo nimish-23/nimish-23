@@ -5,7 +5,7 @@
 🎓 3rd-year B.E. student in Artificial Intelligence & Data Science at PVGCOE, Nashik  
 🔍 Passionate about turning data into insights using Python and ML  
 💼 Seeking internship opportunities in Data Science / Machine Learning / Analytics  
-📫 Reach me: [nimishsinkar@gmail.com](mailto:nimishsinkar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nimish-sinkar-59174b301)
+📫 Reach me: [nimishsinkar2004@gmail.com](mailto:nimishsinkar2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nimish-sinkar-59174b301)
 
 ---
 
