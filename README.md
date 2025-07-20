@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nimish Pravin Sinkar
+# 👋 Hi, I'm Nimish Sinkar
 
 🎓 I’m a 3rd-year B.E. student in Artificial Intelligence & Data Science at PVGCOE, Nashik  
 🔭 I’m interested in Data Science, Machine Learning, and Analytics  
