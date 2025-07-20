@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Nimish Pravin Sinkar
 
-<!--
-**nimish-23/nimish-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a 3rd-year B.E. student in Artificial Intelligence & Data Science at PVGCOE, Nashik  
+🔭 I’m interested in Data Science, Machine Learning, and Analytics  
+🌱 Currently learning: Model evaluation, feature selection, and deployment  
+💼 Looking for internship opportunities in Data Science or ML roles  
+📫 Reach me at: nimishsinkar@gmail.com | [LinkedIn](https://www.linkedin.com/in/nimish-sinkar-59174b301)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Key Projects
+
+- 📊 [Student Performance Classification](https://github.com/nimish-23/student-performance-classification)  
+  Multi-class ML classification model using logistic regression and Random Forest.
+
+- 🗂️ Academic Result Management System  
+  Django web application to manage students' results with secure CRUD operations.
+
+---
+
+### 💻 Tech Stack
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `SQL` `Git` `Jupyter` `Django`
+
+---
+
+### 📈 GitHub Stats
+
+![Nimish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimish-23&show_icons=true&theme=radical)
