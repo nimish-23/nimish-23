@@ -47,6 +47,14 @@
 
 ### 📂 Featured Projects
 
+#### 🚀 [OpenBuild – Build in Public Platform](https://github.com/nimish-23/openbuild)
+> *A platform to document and share projects openly.*
+>
+> OpenBuild is a full-stack web application that enables users to log in, create projects, and share their build journey from start to finish in a public community feed.
+> - **Tech:** Python, Flask, SQLAlchemy, HTML, CSS, Git.
+> - **Key Features:** User authentication, project-based posting, community feed, and AI-generated project summaries.
+
+
 #### 📊 [Student Performance Classification](https://github.com/nimish-23/student-performance-classification)
 > *Using Machine Learning to analyze academic trends.*
 >
@@ -54,28 +62,16 @@
 > - **Tech:** Python, Scikit-Learn, Pandas, Seaborn.
 > - **Key Features:** Extensive EDA, Feature Engineering, and Model evaluation using Logistic Regression & Random Forest.
 
-#### 🗂️ Academic Result Management System *(In Progress)*
-> *Streamlining result management for educational institutions.*
->
-> A Django-based web application designed to manage student results, course data, and administrative access.
-> - **Tech:** Django, SQLite, HTML/CSS.
+
 
 ---
 
 ### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimish-23&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish-23&theme=radical" height="165"/>
+</p>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nimish-23&show_icons=true&theme=radical&count_private=true" alt="Nimish's Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish-23&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-</div>
 
 ---
 
