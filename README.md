@@ -1,4 +1,4 @@
-<img src="https://github.com/nimish-23/nimish-23/assets/banner-image-placeholder" alt="Banner" width="100%"/>
+<img src="https://github.com/nimish-23/nimish-23/assets/Image_202601051422.jpeg" alt="Banner" width="100%"/>
 
 # 👋 Hi, I'm Nimish Pravin Sinkar
 
