@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Image_202601051502.jpeg" alt="Nimish Sinkar Banner" width="100%" />
+  <img src="Image_202601051518.jpeg" alt="Nimish Sinkar Banner" width="100%" />
 </div>
 
 <div align="center">
