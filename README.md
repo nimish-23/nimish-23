@@ -42,7 +42,7 @@ I treat projects as the real curriculum. Everything below is something I've buil
 - Git — version control, branching, collaboration
 
 **Confident enough to teach:**
-`Python & OOP` · `Pandas / NumPy` · `Matplotlib / Seaborn` · `Scikit-learn` · `Flask / Django` · `SQL` · `Git`
+`Python & OOP` · `Pandas / NumPy` · `Matplotlib / Seaborn` · `Scikit-learn` · `Flask / FastApi` · `SQL` · `Git`
 
 ---
 
